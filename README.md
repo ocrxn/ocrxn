@@ -2,7 +2,8 @@ pronouns: he/him
 
 discord: ocran_
 
-languages: python
+python, html, css
+
 
 
 <!---
