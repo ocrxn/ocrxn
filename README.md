@@ -1,6 +1,5 @@
 discord: ocran_
 
-python, html, css
 
 
 
