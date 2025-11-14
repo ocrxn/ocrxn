@@ -1,5 +1,4 @@
-discord: ocrxn_
-
+email: ocrxn@proton.me
 
 
 
